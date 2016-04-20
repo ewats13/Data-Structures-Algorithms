@@ -3,6 +3,7 @@ These assignments required us to compare the execution times of specific sorting
 
 HW03 - Compare the execution times of Insertion Sort and Merge Sort algorithms. <br />
 HW05 - Compare the execution times of Heap Sort and Merge Sort algorithms. <br />
-HW06 - Compare the execution times of Quicksort and Randomized Quicksort algorithms when sorting arrays consisting of elements that are already sorted. Next, compare the execution times of the Randomized Quick Sort and Merge Sort algorithms when sorting randomly        populated arrays of various sizes.
+HW06 - Compare the execution times of Quicksort and Randomized Quicksort algorithms when sorting arrays consisting of elements that are already sorted. Next, compare the execution times of the Randomized Quick Sort and Merge Sort algorithms when sorting randomly        populated arrays of various sizes. <br />
+HW08 - Compare the execution times of Counting Sort and Merge Sort algorithms.
 
 
